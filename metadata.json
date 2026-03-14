@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI Studio",
+  "description": "Advanced AI image upscaler, inpainter, and color grader using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
